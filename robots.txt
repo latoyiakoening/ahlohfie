@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mohzoomam.salescity.com.br/sitemap.xml
